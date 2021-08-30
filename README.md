@@ -31,7 +31,7 @@
 💬 My inbox is always open, Contact me
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/alissa-hodge-681364198/">
+  <a href="https://www.linkedin.com/in/alissa-hodge/">
    <img align="left" alt="Alissa Hodge | Linkedin" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
   <a href="mailto:alissaahodge@gmail.com">
