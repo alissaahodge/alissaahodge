@@ -1,6 +1,6 @@
 <h1> Hi there, I’m Alissa Hodge! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-**🔭 I am an enthusiastic and motivated software developer experienced in OOP, developing, testing, debugging code and designing interactive interfaces. <br>I am able to quickly learn and master new technologies and I enjoy learning new tech and building out fun projects in my spare time :) .**<br>
+**🔭 I am an enthusiastic and motivated software developer experienced in OOP, developing, testing, debugging code and designing interactive interfaces. <br>I am able to quickly learn and master new technologies and I enjoy learning new tech and building out fun projects in my spare time.**<br>
 <br>
 <br>
 **✨ Tech currently using:** <br>
