@@ -1,8 +1,8 @@
 <h1> Hi there, I’m Alissa Hodge! <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-**I am an enthusiastic and motivated software developer experienced in OOP, developing, testing, debugging code and designing interactive interfaces. <br>I am able to quickly learn and master new technologies and I enjoy learning new tech and building out fun projects in my spare time.**<br>
+**I enjoy turning complex problems into simple, interactive and engaging applications across the spectrum of devices and platforms. I am able to quickly learn and master new technologies and I enjoy learning new tech and building out fun projects in my spare time.**<br>
 <br>
-<br>
+<!-- <br>
 **Tech currently using:** <br>
 <br>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
@@ -17,13 +17,13 @@
 <code><a href="https://html.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></a></code>
 <code><a href="https://html.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></a></code>
 <code><a href="https://html.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></a></code>
-<code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code>
+<code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></a></code> -->
 
 
 
+<!-- <br>
 <br>
-<br>
-<br>
+<br> -->
 💬 Ask me about anything, I'll be happy to help! <br>
 💬 My inbox is always open, Contact me
 <br>
