@@ -33,7 +33,7 @@
   </a>
   <a href="mailto:alissaahodge@icloud.com">
     <img align="left" alt="Alissa Hodge | Gmail" width="26px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
- alissaahodge@gmail.com
+ alissaahodge@icloud.com
   </a>
 <br>
 <br>
