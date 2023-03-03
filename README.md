@@ -28,12 +28,12 @@
 💬 My inbox is always open, Contact me
 <br>
 <br> 
-  <a href="https://www.linkedin.com/in/alissa-hodge/">
+<!--   <a href="https://www.linkedin.com/in/alissa-hodge/">
    <img align="left" alt="Alissa Hodge | Linkedin" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
   <a href="mailto:alissaahodge@icloud.com">
     <img align="left" alt="Alissa Hodge | Gmail" width="26px" src="https://image.flaticon.com/icons/png/512/281/281769.png" />
  alissaahodge@icloud.com
-  </a>
+  </a> -->
 <br>
 <br>
