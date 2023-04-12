@@ -25,7 +25,7 @@
 <br>
 <br> -->
 💬 Ask me about anything, I'll be happy to help! <br>
-💬 My inbox is always open, Contact me
+💬 My inbox is always open!
 <br>
 <br> 
 <!--   <a href="https://www.linkedin.com/in/alissa-hodge/">
