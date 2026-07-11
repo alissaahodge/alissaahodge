@@ -7,9 +7,9 @@ By day I work with Python/Django and a battle-tested JS stack. By night (and on 
 ---
 
 🛠️ **Currently working with:**
-`Python` `Django` `JavaScript` `SQL`
+`Python` `Django` `JavaScript` `SQL` `Stored Procedures`
 
 📚 **Currently learning:**
-`React` `TypeScript`
+`React`
 
 💬 Feel free to explore my repos — a mix of work-influenced projects and personal experiments!
